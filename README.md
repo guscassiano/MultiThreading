@@ -1,2 +1,2 @@
 # MultiThreading
-Criando o repositório do do exercício sobre threads
+Repositório criado para o exercício sobre threads
